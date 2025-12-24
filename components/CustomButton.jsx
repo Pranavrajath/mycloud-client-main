@@ -16,6 +16,7 @@ const CustomButton = ({title, handlePress, isLoading, extraStyle, icon, iconStyl
         style={{tintColor:'white'}}
         />):null}
     </TouchableOpacity>
+    
   )
 }
 
